@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z_DT_YAS</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>Z_DM_YAS</DOMNAME>
+    <HEADLEN>03</HEADLEN>
+    <SCRLEN1>03</SCRLEN1>
+    <SCRLEN2>03</SCRLEN2>
+    <SCRLEN3>03</SCRLEN3>
+    <DDTEXT>yaş</DDTEXT>
+    <REPTEXT>yaş</REPTEXT>
+    <SCRTEXT_S>yaş</SCRTEXT_S>
+    <SCRTEXT_M>yaş</SCRTEXT_M>
+    <SCRTEXT_L>yaş</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
